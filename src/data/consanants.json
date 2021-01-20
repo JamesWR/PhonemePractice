@@ -1,0 +1,462 @@
+[
+  {
+    "char":"m̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"m",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɱ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"n̼",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"n̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"n",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɳ̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɳ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɲ̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɲ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ŋ̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ŋ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɴ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"p",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"b",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"p̪",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"b̪",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"t̼",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"d̼",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"t",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"d",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʈ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɖ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"c",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɟ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"k",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɡ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"q",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɢ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʡ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʔ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"s",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"z",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʃ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʒ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʂ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʐ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɕ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʑ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɸ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"β",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"f",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"v",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"θ̼",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ð̼",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"θ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ð",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"θ̠",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ð̠",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɹ̠̊˔",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɹ̠˔",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɻ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ç",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʝ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"x",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɣ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"χ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʁ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ħ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʕ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"h",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɦ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʋ̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʋ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɹ̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɹ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɻ̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɻ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"j̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"j",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɰ̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɰ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʔ̞",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ⱱ̟",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ⱱ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɾ̼",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɾ̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɾ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɽ̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɽ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɢ̆",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʡ̆",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʙ̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʙ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"r̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"r",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɽ̊r̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɽr",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʀ̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʀ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʜ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʢ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɬ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɮ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɭ̊˔",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɭ˔",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʎ̝̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʎ̝",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʟ̝̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʟ̝",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"l̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"l",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɭ̊",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɭ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʎ̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʎ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʟ̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʟ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʟ̠",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɺ̥",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɺ",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɭ̥̆",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ɭ̆",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʎ̆",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  },
+  {
+    "char":"ʟ̆",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+  }
+]
