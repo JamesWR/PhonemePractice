@@ -1,7 +1,6 @@
 [
   {
-    "char":"m̥",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"m̥"
   },
   {
     "char":"m",
@@ -9,167 +8,169 @@
   },
   {
     "char":"ɱ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/1/18/Labiodental_nasal.ogg"
   },
   {
     "char":"n̼",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/8/82/Linguolabial_nasal.ogg"
   },
   {
-    "char":"n̥",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"n̥"
   },
   {
     "char":"n",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/2/29/Alveolar_nasal.ogg"
   },
   {
-    "char":"ɳ̊",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɳ̊"
   },
   {
     "char":"ɳ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/af/Retroflex_nasal.ogg"
   },
   {
-    "char":"ɲ̊",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɲ̊"
   },
   {
     "char":"ɲ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/4/46/Palatal_nasal.ogg"
   },
   {
-    "char":"ŋ̊",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ŋ̊"
   },
   {
     "char":"ŋ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/3/39/Velar_nasal.ogg"
   },
   {
     "char":"ɴ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Uvular_nasal.ogg"
   },
   {
     "char":"p",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/5/51/Voiceless_bilabial_plosive.ogg"
   },
   {
     "char":"b",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Voiced_bilabial_plosive.ogg"
   },
   {
-    "char":"p̪",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"p̪"
   },
   {
-    "char":"b̪",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"b̪"
   },
   {
     "char":"t̼",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_linguolabial_stop.ogg"
   },
   {
     "char":"d̼",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/9/95/Voiced_linguolabial_stop.ogg"
+  },
+  {
+    "char": "t̪",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Voiceless_dental_stop.ogg"
+  },
+  {
+    "char": "d̪",
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Voiced_dental_stop.ogg"
   },
   {
     "char":"t",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/0/02/Voiceless_alveolar_plosive.ogg"
   },
   {
     "char":"d",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/0/01/Voiced_alveolar_plosive.ogg"
   },
   {
     "char":"ʈ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Voiceless_retroflex_stop.oga"
   },
   {
     "char":"ɖ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/2/27/Voiced_retroflex_stop.oga"
   },
   {
     "char":"c",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Voiceless_palatal_plosive.ogg"
   },
   {
     "char":"ɟ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Voiced_palatal_plosive.ogg"
   },
   {
     "char":"k",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Voiceless_velar_plosive.ogg"
   },
   {
     "char":"ɡ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/1/12/Voiced_velar_plosive_02.ogg"
   },
   {
     "char":"q",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/1/19/Voiceless_uvular_plosive.ogg"
   },
   {
     "char":"ɢ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Voiced_uvular_stop.oga"
   },
   {
     "char":"ʡ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Epiglottal_stop.ogg"
   },
   {
     "char":"ʔ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Glottal_stop.ogg"
   },
   {
     "char":"s",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Voiceless_alveolar_sibilant.ogg"
   },
   {
     "char":"z",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Voiced_alveolar_sibilant.ogg"
   },
   {
     "char":"ʃ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Voiceless_palato-alveolar_sibilant.ogg"
   },
   {
     "char":"ʒ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/3/30/Voiced_palato-alveolar_sibilant.ogg"
   },
   {
     "char":"ʂ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Voiceless_retroflex_sibilant.ogg"
   },
   {
     "char":"ʐ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Voiced_retroflex_sibilant.ogg"
   },
   {
     "char":"ɕ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Voiceless_alveolo-palatal_sibilant.ogg"
   },
   {
     "char":"ʑ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/1/15/Voiced_alveolo-palatal_sibilant.ogg"
   },
   {
     "char":"ɸ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/4/41/Voiceless_bilabial_fricative.ogg"
   },
   {
     "char":"β",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/3/37/Voiced_bilabial_fricative.ogg"
   },
   {
     "char":"f",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/3/33/Voiceless_labiodental_fricative.ogg"
   },
   {
     "char":"v",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/8/85/Voiced_labiodental_fricative.ogg"
   },
   {
     "char":"θ̼",
@@ -181,191 +182,178 @@
   },
   {
     "char":"θ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/8/80/Voiceless_dental_fricative.ogg"
   },
   {
     "char":"ð",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://en.wikipedia.org/wiki/File:Voiced_dental_fricative.ogg"
   },
   {
     "char":"θ̠",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Voiceless_alveolar_non-sibilant_fricative.ogg"
   },
   {
     "char":"ð̠",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Voiced_alveolar_non-sibilant_fricative.ogg"
   },
   {
     "char":"ɹ̠̊˔",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Voiceless_postalveolar_non-sibilant_fricative.ogg"
   },
   {
     "char":"ɹ̠˔",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Voiced_postalveolar_non-sibilant_fricative.ogg"
   },
   {
-    "char":"ɻ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɻ˔"
   },
   {
     "char":"ç",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Voiceless_palatal_fricative.ogg"
   },
   {
     "char":"ʝ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Voiced_palatal_fricative.ogg"
   },
   {
     "char":"x",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg"
   },
   {
     "char":"ɣ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/4/47/Voiced_velar_fricative.ogg"
   },
   {
     "char":"χ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Voiceless_velar_fricative.ogg"
   },
   {
     "char":"ʁ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Voiceless_pharyngeal_fricative.ogg"
   },
   {
     "char":"ħ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Voiced_pharyngeal_fricative.ogg"
   },
   {
     "char":"ʕ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Voiced_pharyngeal_fricative.ogg"
   },
   {
     "char":"h",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/d/da/Voiceless_glottal_fricative.ogg"
   },
   {
     "char":"ɦ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Voiced_glottal_fricative.ogg"
   },
   {
-    "char":"ʋ̥",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ʋ̥"
   },
   {
     "char":"ʋ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Labiodental_approximant.ogg"
   },
   {
-    "char":"ɹ̥",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɹ̥"
   },
   {
     "char":"ɹ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Alveolar_approximant.ogg"
   },
   {
-    "char":"ɻ̊",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɻ̊"
   },
   {
     "char":"ɻ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Retroflex_approximant.ogg"
   },
   {
-    "char":"j̊",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"j̊"
   },
   {
     "char":"j",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Palatal_approximant.ogg"
   },
   {
-    "char":"ɰ̊",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɰ̊"
   },
   {
     "char":"ɰ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Voiced_velar_approximant.ogg"
   },
   {
-    "char":"ʔ̞",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ʔ̞"
   },
   {
-    "char":"ⱱ̟",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ⱱ̟"
   },
   {
     "char":"ⱱ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Labiodental_flap.ogg"
   },
   {
-    "char":"ɾ̼",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɾ̼"
   },
   {
-    "char":"ɾ̥",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɾ̥"
   },
   {
     "char":"ɾ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Alveolar_tap.ogg"
   },
   {
-    "char":"ɽ̊",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɽ̊"
   },
   {
     "char":"ɽ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/8/87/Retroflex_flap.ogg"
   },
   {
-    "char":"ɢ̆",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɢ̆"
   },
   {
     "char":"ʡ̆",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Epiglottal_flap.oga"
   },
   {
     "char":"ʙ̥",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Voiceless_bilabial_trill_with_aspiration.ogg"
   },
   {
     "char":"ʙ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bilabial_trill.ogg"
   },
   {
     "char":"r̥",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Voiceless_alveolar_trill.ogg"
   },
   {
     "char":"r",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alveolar_trill.ogg"
   },
   {
-    "char":"ɽ̊r̥",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "char":"ɽ̊r̥"
   },
   {
     "char":"ɽr",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/2/29/Voiced_retroflex_trill.ogg"
   },
   {
     "char":"ʀ̥",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Voiceless_uvular_trill.ogg"
   },
   {
     "char":"ʀ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Uvular_trill.ogg"
   },
   {
     "char":"ʜ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Voiceless_epiglottal_trill.ogg"
   },
   {
     "char":"ʢ",
-    "sound": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg"
+    "sound": "https://upload.wikimedia.org/wikipedia/commons/1/18/Voiced_epiglottal_trill_2.ogg"
   },
   {
     "char":"ɬ",
