@@ -29,10 +29,10 @@ export default {
       this.right = right
       this.wrong = wrong
       this.state = 'guessing'
+    },
+    handleGuess(correct) {
+      this.state = correct ? 'right' : 'wrong'
     }
-  },
-  handleGuess(correct) {
-    this.state = correct ? 'right' : 'wrong'
   }
 }
 </script>
@@ -44,7 +44,7 @@ export default {
       :right="right"
       :wrong="wrong"
       :type="type"
-      v-on:guess="setGuess()"
+      v-on:guess="(correct) => {handleGuess(correct)}"
     )
     .right(v-if="state == 'right'") right
       button(v-on:click="setGuess()") next
