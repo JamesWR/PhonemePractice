@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "start": "http-server dist",
-    "prepare": "yarn build",
+    "prepare": "vue-cli-service build",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
