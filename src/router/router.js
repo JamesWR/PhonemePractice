@@ -22,6 +22,5 @@ export const router = new Router({
     path: '/',
     redirect: 'select',
   },
-  ],
-  mode: 'history',
+  ]
 })
